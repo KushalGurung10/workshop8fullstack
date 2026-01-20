@@ -1,4 +1,5 @@
-vendor/
-cache/
-*.log
-*.env
+/vendor/
+node_modules/
+.cache/
+.env
+.DS_Store
